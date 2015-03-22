@@ -1,12 +1,11 @@
 # Indy Labs
 
-* [Member List](https://github.com/indyhall/indylabs/wiki/Member-List)
-* [Project Ideas](https://github.com/indyhall/indylabs/wiki/Project-Ideas)
+Indy Labs is a subset of [Indy Hall](http://indyhall.org) dedicated to improving the coworking community through technology.
+
+View the [wiki](https://github.com/indyhall/indylabs/wiki/) for additional information, meeting notes, etc.
 
 ## TODO
 
-* Member List
-* Technology Inventory
 * Guidelines for Successful Projects
 * Gather project ideas
 * Schedule first meeting
