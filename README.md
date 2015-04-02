@@ -6,6 +6,7 @@ View the [wiki](https://github.com/indyhall/indylabs/wiki/) for additional infor
 
 ## TODO
 
+* Get indyhall.org and hello.indyhall.org into Github
 * Guidelines for Successful Projects
 * Gather project ideas
 * Schedule first meeting
