@@ -10,3 +10,4 @@ View the [wiki](https://github.com/indyhall/indylabs/wiki/) for additional infor
 * Guidelines for Successful Projects
 * Gather project ideas
 * Figure out Github member management (permissions, etc.)
+* Idea board (Trello?)
