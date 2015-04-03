@@ -11,3 +11,4 @@ View the [wiki](https://github.com/indyhall/indylabs/wiki/) for additional infor
 * Gather project ideas
 * Figure out Github member management (permissions, etc.)
 * Idea board (Trello?)
+* Start Hello 2.0
