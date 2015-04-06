@@ -1,6 +1,6 @@
 # Indy Labs
 
-Indy Labs is a subset of [Indy Hall](http://indyhall.org) dedicated to improving the coworking community through technology.
+Indy Labs is a subset of [Indy Hall](http://indyhall.org) dedicated to enriching the Indy Hall experience through technology.
 
 View the [wiki](https://github.com/indyhall/indylabs/wiki/) for additional information, meeting notes, etc.
 
