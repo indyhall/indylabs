@@ -21,3 +21,6 @@ Important devices on the network and their IP addresses go here:
 
 Name        | IP address
 ----------- | ---------------
+Indy Hall Jukebox | 192.168.0.146
+Brother DCP-L2540DW series | 192.168.1.167
+Brother MFC-7860DW  |192.168.1.28
